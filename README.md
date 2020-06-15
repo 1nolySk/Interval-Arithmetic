@@ -1,3 +1,4 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/1nolysk/Interval-Arithmetic)   ![GitHub](https://img.shields.io/github/license/1nolysk/Interval-Arithmetic)
 # Interval Arithmetic - Python Class
 This is a module for Interval Arithmetic based operations to be used in Python.
 
@@ -40,3 +41,4 @@ R operator obj1
 <br/>
 
 *If you find any mistakes or imporvements, feel free to contact me.*
+
